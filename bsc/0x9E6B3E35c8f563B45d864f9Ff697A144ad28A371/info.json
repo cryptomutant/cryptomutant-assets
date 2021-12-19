@@ -1,0 +1,23 @@
+{
+  "name": "Dogemongo",
+  "website": "https://dogemongo.com/",
+  "description": "Combine the Playing Experience with your Favourite Dogemons! \n  Start catching Dogemons today & If you’re a great trainer, you can find Crypto Currency as prey among other Dogemons. \n The Dogemons are waiting for you - Start Now and catch them all! \n MARS IS THE TARGET!",
+  "explorer": "https://bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+  "type": "BEP20",
+  "symbol": "DOGO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371",
+"main_pair_token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "links": [
+
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DogemonGoApp"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dogemongoann"
+    }
+  ]
+}
